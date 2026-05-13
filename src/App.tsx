@@ -63,7 +63,7 @@ const EXPERIENCE = [
     period: "2025 - Present",
     desc: "Leading community development and student mentorship.",
     icon: Users,
-    image: "https://images.unsplash.com/photo-1541339907198-e08756ebafe3?auto=format&fit=crop&q=80&w=800"
+    image: "https://www.collegedata.com/hs-fs/hubfs/collegedata/images/article/ra-friendship.jpg?width=3345&height=1776&name=ra-friendship.jpg"
   },
   {
     title: "Fashion Model Mentor",
